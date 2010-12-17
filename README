@@ -1,0 +1,35 @@
+This is Perl module Types.
+
+INSTALLATION
+
+Install cpanm (App::cpanminus) and then run the following command to install
+Types:
+
+    $ cpanm Types
+
+If you get an archive of this distribution, unpack it and build it
+as per the usual:
+
+    $ tar xzf Types-$version.tar.gz
+    $ cd Types-$version
+    $ perl Makefile.PL
+    $ make && make test
+
+Then install it:
+
+    $ make install
+
+DOCUMENTATION
+
+Types documentation is available as in POD. So you can do:
+
+    $ perldoc Types
+
+to read the documentation online with your favorite pager.
+
+LICENSE AND COPYRIGHT
+
+Copyright (c) 2010, Fuji, Goro (gfx). All rights reserved.
+
+This library is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
